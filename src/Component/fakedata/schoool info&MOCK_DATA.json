@@ -1,0 +1,62 @@
+[
+    {
+        "schoolName": "Zinzira PM pilot school and collage",
+        "schoolCode": 620,
+        "address": "Keraniganj"
+    },
+    {
+        "schoolName": "Isfahani govt school",
+        "schoolCode": 545,
+        "address": "Old Town"
+    },
+    {
+        "schoolName": "Armanitola high school",
+        "schoolCode": 308,
+        "address": "Dhaka"
+    },
+    {
+        "schoolName": "National school of music",
+        "schoolCode": 535,
+        "address": "GSadarghat"
+    },
+    {
+        "schoolName": "University of Negros Occidental-Recoletos",
+        "schoolCode": 281,
+        "address": "Mikhaylovskoye"
+    },
+    {
+        "schoolName": "Allegheny College",
+        "schoolCode": 648,
+        "address": "Stockholm"
+    },
+    {
+        "schoolName": "Mohi-ud-Din Islamic University",
+        "schoolCode": 414,
+        "address": "Gachalá"
+    },
+    {
+        "schoolName": "University of Petroleum (East China)",
+        "schoolCode": 362,
+        "address": "Jirny"
+    },
+    {
+        "schoolName": "Uzhgorod National University",
+        "schoolCode": 672,
+        "address": "Heliconia"
+    },
+    {
+        "schoolName": "Blue Nile University",
+        "schoolCode": 442,
+        "address": "Upton"
+    },
+    {
+        "schoolName": "Sterlitamak State Pedagogical Institute",
+        "schoolCode": 384,
+        "address": "Beizhuang"
+    },
+    {
+        "schoolName": "University of Southern Denmark",
+        "schoolCode": 406,
+        "address": "Berlin"
+    }
+]

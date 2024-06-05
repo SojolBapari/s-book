@@ -1,0 +1,18 @@
+.post-section{
+    background-color: rgb(255, 255, 228);
+    padding: 10px;
+    border-radius: 10px;
+}
+textarea{
+    width: 99.7%;
+    height: 100px;
+    border-radius: 10px;
+}
+span{
+    margin-left:50px;
+}
+button{
+    margin-top: 5px;
+}
+
+

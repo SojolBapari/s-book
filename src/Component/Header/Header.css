@@ -1,0 +1,25 @@
+.topnav {
+    margin-top: 5px;
+    background-color: #4b4b4b;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #006d83;
+    color: rgb(255, 255, 255);
+}
+.topnav a.active {
+    background-color: #04AA6D;
+    color: rgb(255, 255, 255);
+}
+.id{
+    margin-left: 60%;
+}

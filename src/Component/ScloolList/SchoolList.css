@@ -1,0 +1,12 @@
+.schoolList-conteinar{
+    text-align: center;
+    line-height: 50px;
+    width: 60%;
+    margin: auto;
+    background-color: rgba(229, 226, 221, 0.33);
+    border-radius: 10px;
+    
+}
+li{
+    margin-top: 10px;
+}

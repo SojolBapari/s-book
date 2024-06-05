@@ -1,0 +1,48 @@
+.login-container{
+    
+    background-color: rgba(255, 230, 205, 0.208);
+    width: 70%;
+    /* height: 50px; */
+    margin: auto;
+    display: flex;
+    padding: 100px 0px;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px rgb(189, 187, 187);;
+}
+.welcome-containt{
+    width: 50%;
+    text-align: center;
+    border-right: 1px solid black;
+}
+.welcome-containt h1{
+    font-size: 70px;
+    text-shadow: rgb(232, 192, 48) 1px 0 10px;
+}
+.login-from{
+    width: 50%;
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+.login-from h1{
+    color: rgb(0, 0, 0);
+}
+#passward{
+    margin-top: 10px;
+}
+input{
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgb(188, 188, 188);
+}
+button.ink{
+    text-decoration: none;
+}
+button{
+    background-color: rgb(103, 235, 255);
+    width: 15%;
+    padding: 5px;
+    border-radius: 10px;
+}
+
